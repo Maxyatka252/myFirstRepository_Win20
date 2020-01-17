@@ -1,3 +1,3 @@
 # myFirstRepository_Win20
 
-Hello! This is my repository.
+Hello! This is my repository. :-)
